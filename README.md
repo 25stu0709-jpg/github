@@ -14,9 +14,9 @@ README.md 파일 만드는 방법
 프로젝트를 쓰려면 어떻게 설치하는지 알려줘요.
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.tx
 
-##사용 방법
+#사용방법
 
 프로젝트를 어떻게 실행하는지 알려줘요.
 
