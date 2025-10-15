@@ -1,5 +1,13 @@
 # github 만드는법
-README.md 파일 만드는 방법
+1. README.md가 뭐예요?
+
+README.md는 내 프로젝트에 대한 소개서 같은 거예요.
+
+GitHub에서 프로젝트를 볼 때 가장 먼저 보이는 파일이에요.
+
+내가 만든 프로젝트가 무엇인지, 어떻게 사용하는지, 어떤 기술을 썼는지 알려주는 역할을 해요.
+
+2. README.md 파일 만드는 방법
 
 메모장(또는 텍스트 편집기)을 열어요.
 
@@ -14,9 +22,9 @@ README.md 파일 만드는 방법
 프로젝트를 쓰려면 어떻게 설치하는지 알려줘요.
 
 ```bash
-pip install -r requirements.tx
+pip install -r requirements.txt
 
-#사용방법
+사용 방법
 
 프로젝트를 어떻게 실행하는지 알려줘요.
 
