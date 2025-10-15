@@ -22,7 +22,7 @@ GitHub에서 프로젝트를 볼 때 가장 먼저 보이는 파일이에요.
 ```bash
 pip install -r requirements.txt
 
-#사용 방법
+## 사용 방법
 
 프로젝트를 어떻게 실행하는지 알려줘요.
 python main.py
