@@ -16,7 +16,7 @@ README.md 파일 만드는 방법
 ```bash
 pip install -r requirements.txt
 
-사용 방법
+##사용 방법
 
 프로젝트를 어떻게 실행하는지 알려줘요.
 
